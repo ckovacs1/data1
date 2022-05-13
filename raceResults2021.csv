@@ -1,0 +1,441 @@
+circuit,position,name,time
+Bahrain,1,Lewis Hamilton,01:34.0
+Bahrain,2,Max Verstappen,01:33.2
+Bahrain,3,Valtteri Bottas,01:32.1
+Bahrain,4,Lando Norris,01:34.4
+Bahrain,5,Sergio Perez,01:34.0
+Bahrain,6,Charles Leclerc,01:35.0
+Bahrain,7,Daniel Ricciardo,01:34.9
+Bahrain,8,Carlos Sainz,01:34.5
+Bahrain,9,Yuki Tsunoda,01:34.8
+Bahrain,10,Lance Stroll,01:34.9
+Bahrain,11,Kimi Raikkönen,01:35.2
+Bahrain,12,Antonio Giovinazzi,01:35.1
+Bahrain,13,Esteban Ocon,01:35.3
+Bahrain,14,George Russell,01:35.0
+Bahrain,15,Sebastian Vettel,01:35.6
+Bahrain,16,Mick Schumacher,01:36.1
+Bahrain,17,Pierre Gasly,01:34.1
+Bahrain,18,Nicholas Latifi,01:36.6
+Bahrain,NC,Fernando Alonso,01:36.1
+Bahrain,NC,Nikita Mazepin,N/A
+Emilia Romagna,1,Max Verstappen,01:17.5
+Emilia Romagna,2,Lewis Hamilton,01:16.7
+Emilia Romagna,3,Lando Norris,01:18.3
+Emilia Romagna,4,Charles Leclerc,01:18.4
+Emilia Romagna,5,Carlos Sainz,01:18.5
+Emilia Romagna,6,Daniel Ricciardo,01:19.3
+Emilia Romagna,7,Pierre Gasly,01:18.8
+Emilia Romagna,8,Lance Stroll,01:19.0
+Emilia Romagna,9,Esteban Ocon,01:19.4
+Emilia Romagna,10,Fernando Alonso,01:19.4
+Emilia Romagna,11,Sergio Perez,01:18.3
+Emilia Romagna,12,Yuki Tsunoda,01:18.4
+Emilia Romagna,13,Kimi Raikkönen,01:19.4
+Emilia Romagna,14,Antonio Giovinazzi,01:19.5
+Emilia Romagna,15,Sebastian Vettel,01:19.1
+Emilia Romagna,16,Mick Schumacher,01:19.2
+Emilia Romagna,17,Nikita Mazepin,01:20.4
+Emilia Romagna,NC,Valtteri Bottas,01:28.5
+Emilia Romagna,NC,George Russell,01:26.5
+Emilia Romagna,NC,Nicholas Latifi,N/A
+Portugal,1,Lewis Hamilton,01:20.9
+Portugal,2,Max Verstappen,01:20.7
+Portugal,3,Valtteri Bottas,01:19.9
+Portugal,4,Sergio Perez,01:20.6
+Portugal,5,Lando Norris,01:21.7
+Portugal,6,Charles Leclerc,01:21.5
+Portugal,7,Esteban Ocon,01:21.9
+Portugal,8,Fernando Alonso,01:21.0
+Portugal,9,Daniel Ricciardo,01:22.0
+Portugal,10,Pierre Gasly,01:22.0
+Portugal,11,Carlos Sainz,01:22.3
+Portugal,12,Antonio Giovinazzi,01:22.2
+Portugal,13,Sebastian Vettel,01:22.4
+Portugal,14,Lance Stroll,01:22.0
+Portugal,15,Yuki Tsunoda,01:22.1
+Portugal,16,George Russell,01:22.7
+Portugal,17,Mick Schumacher,01:22.8
+Portugal,18,Nicholas Latifi,01:23.2
+Portugal,19,Nikita Mazepin,01:23.6
+Portugal,NC,Kimi Raikkönen,N/A
+Spain,1,Lewis Hamilton,01:20.7
+Spain,2,Max Verstappen,01:18.1
+Spain,3,Valtteri Bottas,01:19.4
+Spain,4,Charles Leclerc,01:20.5
+Spain,5,Sergio Perez,01:19.5
+Spain,6,Daniel Ricciardo,01:21.9
+Spain,7,Carlos Sainz,01:21.6
+Spain,8,Lando Norris,01:21.3
+Spain,9,Esteban Ocon,01:23.3
+Spain,10,Pierre Gasly,01:21.4
+Spain,11,Lance Stroll,01:22.6
+Spain,12,Kimi Raikkönen,01:22.9
+Spain,13,Sebastian Vettel,01:22.8
+Spain,14,George Russell,01:23.2
+Spain,15,Antonio Giovinazzi,01:22.8
+Spain,16,Nicholas Latifi,01:22.9
+Spain,17,Fernando Alonso,01:21.2
+Spain,18,Mick Schumacher,01:22.6
+Spain,19,Nikita Mazepin,01:24.0
+Spain,NC,Yuki Tsunoda,01:24.8
+Monaco,1,Max Verstappen,01:14.6
+Monaco,2,Carlos Sainz,01:14.6
+Monaco,3,Lando Norris,01:14.7
+Monaco,4,Sergio Perez,01:14.6
+Monaco,5,Sebastian Vettel,01:15.3
+Monaco,6,Pierre Gasly,01:15.4
+Monaco,7,Lewis Hamilton,01:12.9
+Monaco,8,Lance Stroll,01:14.7
+Monaco,9,Esteban Ocon,01:15.3
+Monaco,10,Antonio Giovinazzi,01:15.3
+Monaco,11,Kimi Raikkönen,01:15.0
+Monaco,12,Daniel Ricciardo,01:14.6
+Monaco,13,Fernando Alonso,01:15.0
+Monaco,14,George Russell,01:15.5
+Monaco,15,Nicholas Latifi,01:15.4
+Monaco,16,Yuki Tsunoda,01:14.0
+Monaco,17,Nikita Mazepin,01:16.9
+Monaco,18,Mick Schumacher,01:16.4
+Monaco,NC,Valtteri Bottas,01:15.7
+Monaco,NC,Charles Leclerc,N/A
+Azerbaijan,1,Sergio Perez,01:44.7
+Azerbaijan,2,Sebastian Vettel,01:44.9
+Azerbaijan,3,Pierre Gasly,01:45.2
+Azerbaijan,4,Charles Leclerc,01:45.4
+Azerbaijan,5,Lando Norris,01:45.3
+Azerbaijan,6,Fernando Alonso,01:45.6
+Azerbaijan,7,Yuki Tsunoda,01:44.9
+Azerbaijan,8,Carlos Sainz,01:45.7
+Azerbaijan,9,Daniel Ricciardo,01:45.7
+Azerbaijan,10,Kimi Raikkönen,01:45.6
+Azerbaijan,11,Antonio Giovinazzi,01:45.6
+Azerbaijan,12,Valtteri Bottas,01:45.7
+Azerbaijan,13,Mick Schumacher,01:47.6
+Azerbaijan,14,Nikita Mazepin,01:47.7
+Azerbaijan,15,Lewis Hamilton,01:44.8
+Azerbaijan,16,Nicholas Latifi,01:46.6
+Azerbaijan,17,George Russell,01:46.0
+Azerbaijan,18,Max Verstappen,01:44.5
+Azerbaijan,NC,Lance Stroll,01:46.2
+Azerbaijan,NC,Esteban Ocon,01:50.9
+France,1,Max Verstappen,01:36.4
+France,2,Lewis Hamilton,01:37.4
+France,3,Sergio Perez,01:36.7
+France,4,Valtteri Bottas,01:37.0
+France,5,Lando Norris,01:37.4
+France,6,Daniel Ricciardo,01:38.3
+France,7,Pierre Gasly,01:38.1
+France,8,Fernando Alonso,01:37.6
+France,9,Sebastian Vettel,01:37.1
+France,10,Lance Stroll,01:37.8
+France,11,Carlos Sainz,01:38.9
+France,12,George Russell,01:38.3
+France,13,Yuki Tsunoda,01:39.0
+France,14,Esteban Ocon,01:38.6
+France,15,Antonio Giovinazzi,01:38.7
+France,16,Charles Leclerc,01:37.7
+France,17,Kimi Raikkönen,01:38.0
+France,18,Nicholas Latifi,01:38.3
+France,19,Mick Schumacher,01:38.8
+France,20,Nikita Mazepin,01:39.3
+Styria,1,Max Verstappen,01:08.0
+Styria,2,Lewis Hamilton,01:07.1
+Styria,3,Valtteri Bottas,01:08.6
+Styria,4,Sergio Perez,01:07.9
+Styria,5,Lando Norris,01:08.9
+Styria,6,Carlos Sainz,01:08.6
+Styria,7,Charles Leclerc,01:08.7
+Styria,8,Lance Stroll,01:09.8
+Styria,9,Fernando Alonso,01:09.7
+Styria,10,Yuki Tsunoda,01:09.7
+Styria,11,Kimi Raikkönen,01:09.1
+Styria,12,Sebastian Vettel,01:09.8
+Styria,13,Daniel Ricciardo,01:09.3
+Styria,14,Esteban Ocon,01:09.6
+Styria,15,Antonio Giovinazzi,01:09.7
+Styria,16,Mick Schumacher,01:10.0
+Styria,17,Nicholas Latifi,01:10.1
+Styria,18,Nikita Mazepin,01:11.0
+Styria,NC,George Russell,01:10.5
+Styria,NC,Pierre Gasly,N/A
+Austria,1,Max Verstappen,01:06.2
+Austria,2,Valtteri Bottas,01:08.4
+Austria,3,Lando Norris,01:08.5
+Austria,4,Lewis Hamilton,01:08.1
+Austria,5,Carlos Sainz,01:07.8
+Austria,6,Sergio Perez,01:08.2
+Austria,7,Daniel Ricciardo,01:08.8
+Austria,8,Charles Leclerc,01:08.7
+Austria,9,Pierre Gasly,01:08.1
+Austria,10,Fernando Alonso,01:08.4
+Austria,11,George Russell,01:08.9
+Austria,12,Yuki Tsunoda,01:08.5
+Austria,13,Lance Stroll,01:08.7
+Austria,14,Antonio Giovinazzi,01:09.0
+Austria,15,Kimi Raikkönen,01:08.5
+Austria,16,Nicholas Latifi,01:08.9
+Austria,17,Sebastian Vettel,01:08.4
+Austria,18,Mick Schumacher,01:09.4
+Austria,19,Nikita Mazepin,01:09.8
+Austria,NC,Esteban Ocon,N/A
+Great Britain,1,Lewis Hamilton,01:29.7
+Great Britain,2,Charles Leclerc,01:30.6
+Great Britain,3,Valtteri Bottas,01:30.5
+Great Britain,4,Lando Norris,01:31.4
+Great Britain,5,Daniel Ricciardo,01:31.3
+Great Britain,6,Carlos Sainz,01:31.2
+Great Britain,7,Fernando Alonso,01:31.7
+Great Britain,8,Lance Stroll,01:32.0
+Great Britain,9,Esteban Ocon,01:32.2
+Great Britain,10,Yuki Tsunoda,01:30.8
+Great Britain,11,Pierre Gasly,01:30.3
+Great Britain,12,George Russell,01:32.0
+Great Britain,13,Antonio Giovinazzi,01:32.3
+Great Britain,14,Nicholas Latifi,01:32.5
+Great Britain,15,Kimi Raikkönen,01:31.9
+Great Britain,16,Sergio Perez,01:28.6
+Great Britain,17,Nikita Mazepin,01:32.9
+Great Britain,18,Mick Schumacher,01:32.9
+Great Britain,NC,Sebastian Vettel,01:33.1
+Great Britain,NC,Max Verstappen,N/A
+Hungary,1,Esteban Ocon,01:21.4
+Hungary,DQ,Sebastian Vettel,01:21.5
+Hungary,2,Lewis Hamilton,01:18.7
+Hungary,3,Carlos Sainz,01:21.4
+Hungary,4,Fernando Alonso,01:20.4
+Hungary,5,Pierre Gasly,01:18.4
+Hungary,6,Yuki Tsunoda,01:22.4
+Hungary,7,Nicholas Latifi,01:22.8
+Hungary,8,George Russell,01:22.1
+Hungary,9,Max Verstappen,01:20.9
+Hungary,10,Kimi Raikkönen,01:21.5
+Hungary,11,Daniel Ricciardo,01:22.8
+Hungary,12,Mick Schumacher,01:22.7
+Hungary,13,Antonio Giovinazzi,01:22.7
+Hungary,NC,Nikita Mazepin,N/A
+Hungary,NC,Lando Norris,N/A
+Hungary,NC,Valtteri Bottas,N/A
+Hungary,NC,Sergio Perez,N/A
+Hungary,NC,Charles Leclerc,N/A
+Hungary,NC,Lance Stroll,N/A
+Belgium,1,Max Verstappen,N/A
+Belgium,2,George Russell,N/A
+Belgium,3,Lewis Hamilton,N/A
+Belgium,4,Daniel Ricciardo,N/A
+Belgium,5,Sebastian Vettel,N/A
+Belgium,6,Pierre Gasly,N/A
+Belgium,7,Esteban Ocon,N/A
+Belgium,8,Charles Leclerc,N/A
+Belgium,9,Nicholas Latifi,N/A
+Belgium,10,Carlos Sainz,N/A
+Belgium,11,Fernando Alonso,N/A
+Belgium,12,Valtteri Bottas,N/A
+Belgium,13,Antonio Giovinazzi,N/A
+Belgium,14,Lando Norris,N/A
+Belgium,15,Yuki Tsunoda,N/A
+Belgium,16,Mick Schumacher,N/A
+Belgium,17,Nikita Mazepin,N/A
+Belgium,18,Kimi Raikkönen,N/A
+Belgium,19,Sergio Perez,N/A
+Belgium,20,Lance Stroll,N/A
+Netherlands,1,Max Verstappen,01:13.3
+Netherlands,2,Lewis Hamilton,01:11.1
+Netherlands,3,Valtteri Bottas,01:12.5
+Netherlands,4,Pierre Gasly,01:14.8
+Netherlands,5,Charles Leclerc,01:14.8
+Netherlands,6,Fernando Alonso,01:14.3
+Netherlands,7,Carlos Sainz,01:15.3
+Netherlands,8,Sergio Perez,01:13.5
+Netherlands,9,Esteban Ocon,01:14.7
+Netherlands,10,Lando Norris,01:14.2
+Netherlands,11,Daniel Ricciardo,01:14.9
+Netherlands,12,Lance Stroll,01:15.6
+Netherlands,13,Sebastian Vettel,01:14.0
+Netherlands,14,Antonio Giovinazzi,01:15.1
+Netherlands,15,Robert Kubica,01:15.4
+Netherlands,16,Nicholas Latifi,01:15.8
+Netherlands,17,George Russell,01:15.6
+Netherlands,18,Mick Schumacher,01:15.9
+Netherlands,NC,Yuki Tsunoda,01:15.8
+Netherlands,NC,Nikita Mazepin,01:16.1
+Italy,1,Daniel Ricciardo,01:24.8
+Italy,2,Lando Norris,01:25.0
+Italy,3,Valtteri Bottas,01:24.9
+Italy,4,Charles Leclerc,01:25.3
+Italy,5,Sergio Perez,01:25.2
+Italy,6,Carlos Sainz,01:25.6
+Italy,7,Lance Stroll,01:25.9
+Italy,8,Fernando Alonso,01:25.5
+Italy,9,George Russell,01:25.8
+Italy,10,Esteban Ocon,01:25.6
+Italy,11,Nicholas Latifi,01:26.0
+Italy,12,Sebastian Vettel,01:25.9
+Italy,13,Antonio Giovinazzi,01:25.7
+Italy,14,Robert Kubica,01:25.8
+Italy,15,Mick Schumacher,01:26.7
+Italy,NC,Nikita Mazepin,01:27.2
+Italy,NC,Lewis Hamilton,01:25.9
+Italy,NC,Max Verstappen,01:25.2
+Italy,NC,Pierre Gasly,01:29.0
+Italy,NC,Yuki Tsunoda,N/A
+Russia,1,Lewis Hamilton,01:37.6
+Russia,2,Max Verstappen,01:38.4
+Russia,3,Carlos Sainz,01:39.3
+Russia,4,Daniel Ricciardo,01:39.1
+Russia,5,Valtteri Bottas,01:38.2
+Russia,6,Fernando Alonso,01:38.7
+Russia,7,Lando Norris,01:37.4
+Russia,8,Kimi Raikkönen,01:40.3
+Russia,9,Sergio Perez,01:39.2
+Russia,10,George Russell,01:40.6
+Russia,11,Lance Stroll,01:40.5
+Russia,12,Sebastian Vettel,01:39.3
+Russia,13,Pierre Gasly,01:38.3
+Russia,14,Esteban Ocon,01:40.6
+Russia,15,Charles Leclerc,01:39.0
+Russia,16,Antonio Giovinazzi,01:39.1
+Russia,17,Yuki Tsunoda,01:40.0
+Russia,18,Nikita Mazepin,01:41.7
+Russia,19,Nicholas Latifi,01:40.0
+Russia,NC,Mick Schumacher,01:40.3
+Turkey,1,Valtteri Bottas,01:30.4
+Turkey,2,Max Verstappen,01:32.8
+Turkey,3,Sergio Perez,01:32.5
+Turkey,4,Charles Leclerc,01:32.7
+Turkey,5,Lewis Hamilton,01:32.8
+Turkey,6,Pierre Gasly,01:32.8
+Turkey,7,Lando Norris,01:32.4
+Turkey,8,Carlos Sainz,01:31.9
+Turkey,9,Lance Stroll,01:32.6
+Turkey,10,Esteban Ocon,01:34.6
+Turkey,11,Antonio Giovinazzi,01:32.9
+Turkey,12,Kimi Raikkönen,01:32.6
+Turkey,13,Daniel Ricciardo,01:33.3
+Turkey,14,Yuki Tsunoda,01:32.8
+Turkey,15,George Russell,01:33.4
+Turkey,16,Fernando Alonso,01:33.3
+Turkey,17,Nicholas Latifi,01:33.7
+Turkey,18,Sebastian Vettel,01:32.7
+Turkey,19,Mick Schumacher,01:34.2
+Turkey,20,Nikita Mazepin,01:35.4
+United States,1,Max Verstappen,01:39.1
+United States,2,Lewis Hamilton,01:38.5
+United States,3,Sergio Perez,01:39.6
+United States,4,Charles Leclerc,01:39.3
+United States,5,Daniel Ricciardo,01:40.3
+United States,6,Valtteri Bottas,01:40.1
+United States,7,Carlos Sainz,01:40.4
+United States,8,Lando Norris,01:40.2
+United States,9,Yuki Tsunoda,01:41.2
+United States,10,Sebastian Vettel,01:41.1
+United States,11,Antonio Giovinazzi,01:41.1
+United States,12,Lance Stroll,01:41.2
+United States,13,Kimi Raikkönen,01:41.3
+United States,14,George Russell,01:41.1
+United States,15,Nicholas Latifi,01:41.8
+United States,16,Mick Schumacher,01:41.4
+United States,17,Nikita Mazepin,01:42.9
+United States,NC,Fernando Alonso,01:40.1
+United States,NC,Esteban Ocon,01:42.2
+United States,NC,Pierre Gasly,01:42.0
+Mexico,1,Max Verstappen,01:19.0
+Mexico,2,Lewis Hamilton,01:19.8
+Mexico,3,Sergio Perez,01:19.5
+Mexico,4,Pierre Gasly,01:20.5
+Mexico,5,Charles Leclerc,01:20.7
+Mexico,6,Carlos Sainz,01:20.1
+Mexico,7,Sebastian Vettel,01:20.5
+Mexico,8,Kimi Raikkönen,01:20.7
+Mexico,9,Fernando Alonso,01:20.7
+Mexico,10,Lando Norris,01:20.6
+Mexico,11,Antonio Giovinazzi,01:21.5
+Mexico,12,Daniel Ricciardo,01:21.1
+Mexico,13,Esteban Ocon,01:21.3
+Mexico,14,Lance Stroll,01:20.9
+Mexico,15,Valtteri Bottas,01:17.8
+Mexico,16,George Russell,01:22.0
+Mexico,17,Nicholas Latifi,01:21.5
+Mexico,18,Nikita Mazepin,01:21.4
+Mexico,NC,Mick Schumacher,N/A
+Mexico,NC,Yuki Tsunoda,N/A
+Brazil,1,Lewis Hamilton,01:12.0
+Brazil,2,Max Verstappen,01:12.5
+Brazil,3,Valtteri Bottas,01:12.5
+Brazil,4,Sergio Perez,01:11.0
+Brazil,5,Charles Leclerc,01:12.8
+Brazil,6,Carlos Sainz,01:12.7
+Brazil,7,Pierre Gasly,01:13.2
+Brazil,8,Esteban Ocon,01:14.4
+Brazil,9,Fernando Alonso,01:13.9
+Brazil,10,Lando Norris,01:13.8
+Brazil,11,Sebastian Vettel,01:13.6
+Brazil,12,Kimi Raikkönen,01:12.6
+Brazil,13,George Russell,01:14.4
+Brazil,14,Antonio Giovinazzi,01:14.2
+Brazil,15,Yuki Tsunoda,01:14.2
+Brazil,16,Nicholas Latifi,01:14.6
+Brazil,17,Nikita Mazepin,01:15.0
+Brazil,18,Mick Schumacher,01:13.8
+Brazil,NC,Daniel Ricciardo,01:14.4
+Brazil,NC,Lance Stroll,01:15.3
+Qatar,1,Lewis Hamilton,01:25.1
+Qatar,2,Max Verstappen,01:23.2
+Qatar,3,Fernando Alonso,01:26.7
+Qatar,4,Sergio Perez,01:25.6
+Qatar,5,Esteban Ocon,01:27.1
+Qatar,6,Lance Stroll,01:27.4
+Qatar,7,Carlos Sainz,01:26.6
+Qatar,8,Charles Leclerc,01:26.6
+Qatar,9,Lando Norris,01:25.7
+Qatar,10,Sebastian Vettel,01:26.4
+Qatar,11,Pierre Gasly,01:27.0
+Qatar,12,Daniel Ricciardo,01:27.2
+Qatar,13,Yuki Tsunoda,01:27.0
+Qatar,14,Kimi Raikkönen,01:26.4
+Qatar,15,Antonio Giovinazzi,01:27.8
+Qatar,16,Mick Schumacher,01:28.4
+Qatar,17,George Russell,01:25.8
+Qatar,18,Nikita Mazepin,01:27.3
+Qatar,NC,Nicholas Latifi,01:28.7
+Qatar,NC,Valtteri Bottas,01:27.2
+Saudi Arabia,1,Lewis Hamilton,01:30.7
+Saudi Arabia,2,Max Verstappen,01:31.5
+Saudi Arabia,3,Valtteri Bottas,01:31.4
+Saudi Arabia,4,Esteban Ocon,01:31.8
+Saudi Arabia,5,Daniel Ricciardo,01:32.7
+Saudi Arabia,6,Pierre Gasly,01:32.3
+Saudi Arabia,7,Charles Leclerc,01:31.6
+Saudi Arabia,8,Carlos Sainz,01:31.9
+Saudi Arabia,9,Antonio Giovinazzi,01:32.9
+Saudi Arabia,10,Lando Norris,01:31.9
+Saudi Arabia,11,Lance Stroll,01:32.8
+Saudi Arabia,12,Nicholas Latifi,01:32.8
+Saudi Arabia,13,Fernando Alonso,01:31.6
+Saudi Arabia,14,Yuki Tsunoda,01:32.5
+Saudi Arabia,15,Kimi Raikkönen,01:32.8
+Saudi Arabia,NC,Sebastian Vettel,01:34.0
+Saudi Arabia,NC,Sergio Perez,01:34.1
+Saudi Arabia,NC,Nikita Mazepin,01:37.0
+Saudi Arabia,NC,George Russell,01:36.1
+Saudi Arabia,NC,Mick Schumacher,01:36.0
+Abu Dhabi,1,Max Verstappen,01:26.1
+Abu Dhabi,2,Lewis Hamilton,01:26.6
+Abu Dhabi,3,Carlos Sainz,01:27.6
+Abu Dhabi,4,Yuki Tsunoda,01:27.5
+Abu Dhabi,5,Pierre Gasly,01:27.3
+Abu Dhabi,6,Valtteri Bottas,01:26.9
+Abu Dhabi,7,Lando Norris,01:26.8
+Abu Dhabi,8,Fernando Alonso,01:27.6
+Abu Dhabi,9,Esteban Ocon,01:28.2
+Abu Dhabi,10,Charles Leclerc,01:28.4
+Abu Dhabi,11,Sebastian Vettel,01:28.3
+Abu Dhabi,12,Daniel Ricciardo,01:28.7
+Abu Dhabi,13,Lance Stroll,01:28.6
+Abu Dhabi,14,Mick Schumacher,01:29.5
+Abu Dhabi,15,Sergio Perez,01:26.4
+Abu Dhabi,NC,Nicholas Latifi,01:29.3
+Abu Dhabi,NC,Antonio Giovinazzi,01:29.4
+Abu Dhabi,NC,George Russell,01:30.6
+Abu Dhabi,NC,Kimi Raikkönen,01:29.7
+Abu Dhabi,NC,Nikita Mazepin,N/A
